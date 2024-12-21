@@ -1,3 +1,3 @@
-I'm studying Data Analytics at QUT
-My background is in linguistics, culture and history.
-I'm looking forward to applying a DA approach to these areas.
+I'm currently studying Data Analytics at Queensland University of Technology in Australia.
+My interests are in language, cognition, history and culture.
+I'm looking forward to applying data analytics to these areas.
